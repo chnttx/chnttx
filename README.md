@@ -27,8 +27,6 @@ I'm currently studying at the University of Melbourne, majoring in Computing and
 - ♦️ **Lucky 13**
     - A refactored card game written in Java. I got to practice various design patterns through this project.
 
-### funfact: I'm currently Master I on GeoGuessr, so feel free to add me if you want to play Team Duels!
-![My Geoguessr profile](master1.png)
 <!--
 **chnttx/chnttx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
