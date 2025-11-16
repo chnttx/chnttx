@@ -1,4 +1,4 @@
-start here -> [https://chnttx.github.io](chnttx.github.io)
+start here -> [https://chnttx.github.io](https://chnttx.github.io)
 
 <!--
 **chnttx/chnttx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
