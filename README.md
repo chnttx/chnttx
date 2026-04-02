@@ -1,4 +1,6 @@
-start here -> [https://chnttx.github.io](https://chnttx.github.io)
+I work on localisation
+
+read more about me here -> [https://chnttx.github.io](https://chnttx.github.io)
 
 <!--
 **chnttx/chnttx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
