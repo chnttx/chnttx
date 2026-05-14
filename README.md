@@ -1,7 +1,14 @@
-I'm currently a software engineer working on localisation
+### English
+
+I'm currently a software engineer working on localisation. Bilingual in English and Vietnamese and able to speak a few words of 10 other languages as well
 
 read more about me here -> [https://chnttx.github.io](https://chnttx.github.io)
 
+### Vietnamese
+
+Thợ code địa phương
+
+thông tin chi tiết -> [https://chnttx.github.io](https://chnttx.github.io)
 <!--
 **chnttx/chnttx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
