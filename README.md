@@ -1,4 +1,4 @@
-I work on localisation
+I'm currently a software engineer working on localisation
 
 read more about me here -> [https://chnttx.github.io](https://chnttx.github.io)
 
