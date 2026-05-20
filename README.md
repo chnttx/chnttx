@@ -4,9 +4,9 @@ I'm currently a software engineer working on localisation. Bilingual in English 
 
 read more about me here -> [https://chnttx.github.io](https://chnttx.github.io)
 
-### Vietnamese
+### Tiếng Việt
 
-Thợ code địa phương
+Thợ code địa phương. Thành thạo tiếng Anh và biết 1 ít 10 ngôn ngữ khác nữa
 
 thông tin chi tiết -> [https://chnttx.github.io](https://chnttx.github.io)
 <!--
